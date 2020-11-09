@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442145455134",
+    "firebase_url": "https://tasko-49e24.firebaseio.com",
+    "project_id": "tasko-49e24",
+    "storage_bucket": "tasko-49e24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442145455134:android:9a4c2bb494babd630d420f",
+        "android_client_info": {
+          "package_name": "info.pkappstudio.tasko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "442145455134-rjpum5r2gq27lfl7bvesfp98i56kucmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "info.pkappstudio.tasko",
+            "certificate_hash": "019274ab8f02cd976b5271cdddd5d72093f03b8e"
+          }
+        },
+        {
+          "client_id": "442145455134-1g942lvbk8j0t3st08e5eqkm04qgvk7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOE5I3iU3Mm8WfOlYcvIeaQvRwI8d1OaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "442145455134-1g942lvbk8j0t3st08e5eqkm04qgvk7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

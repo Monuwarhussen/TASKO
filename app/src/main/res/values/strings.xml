@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tasko</string>
+    <string name="sign_in_to_sync_your_todo_list">Sign in to sync your todo list.</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="skip">Skip</string>
+    <string name="hello_user">Your Todo</string>
+    <string name="add_new_todo">Add New Todo</string>
+    <string name="put_your_todo_here">Put Your Todo Here</string>
+    <string name="pick_time">Pick time</string>
+    <string name="loading">Loading</string>
+    <string name="todo_here">Todo Here</string>
+    <string name="status">Status</string>
+    <string name="pending_tasks">Pending Tasks</string>
+    <string name="about">About</string>
+    <string name="this_app_is_designed_and_developed_by_pk_app_studio_copyright_all_right_reserved">This app is designed and developed by PK App Studio. Copyright © all right reserved.</string>
+    <string name="get_in_touch">Get in touch</string>
+    <string name="email_info_pkappstudio_com">Email: contact@pkappstudio.info</string>
+    <string name="web_www_pkappstudio_com">web: www.pkappstudio.info</string>
+</resources>
