@@ -30,3 +30,8 @@ To run our project successfully on any computer we need to set up a firebase.to 
 ![Screenshot (186)](https://user-images.githubusercontent.com/73954229/98549799-7d3d4080-22c5-11eb-86ac-0f7e404f3c0c.png)
 ![Screenshot (187)](https://user-images.githubusercontent.com/73954229/98549803-7dd5d700-22c5-11eb-811b-13bc62e191c5.png)
 ![Screenshot (188)](https://user-images.githubusercontent.com/73954229/98549805-7e6e6d80-22c5-11eb-8d18-a57771cde670.png)
+
+
+
+
+[Download The App](https://doc-10-94-docs.googleusercontent.com/docs/securesc/to53s7can876gpgs5lrm42h3lp74m1r6/c7tfoh8imqnfmsnqp2lvttujvh8hhag1/1604930925000/13040815782709248730/13040815782709248730/1P5Nf649SgEItpqsQibkeQPeTmiV1Ep9f?e=download&authuser=0&nonce=44eomn4vfebh2&user=13040815782709248730&hash=1j0b8ucb8o36nj60hs00t7cpvtcr6080)
